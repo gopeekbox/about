@@ -1,6 +1,6 @@
-# About YoPeekBox
+# About GoPeekBox
 
-YoPeekBox is a desktop web browsing and local file reading tool designed to help users make the most of their free time at work. It supports accessing any website as well as uploading local files for viewing. YoPeekBox can make web page backgrounds transparent, adjust overall transparency, enable auto-hide when the mouse moves out of the window, and provides customizable hotkeys for instant exit to the background.
+GoPeekBox is a desktop web browsing and local file reading tool designed to help users make the most of their free time at work. It supports accessing any website as well as uploading local files for viewing. GoPeekBox can make web page backgrounds transparent, adjust overall transparency, enable auto-hide when the mouse moves out of the window, and provides customizable hotkeys for instant exit to the background.
 
 ## ✨ Key Features
 
@@ -12,4 +12,4 @@ YoPeekBox is a desktop web browsing and local file reading tool designed to help
 
 -  **Core Functions**: Transparent web pages and local files, auto-hide on mouse-out, customizable text color, hide images, and one-click background exit
 
-## Want to know more? Visit us at https://yopeekbox.com
+## Want to know more? Visit us at https://gopeekbox.com
